@@ -70,9 +70,7 @@
     <a href="https://github.com/jarebruno?tab=repositories">
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jarebruno&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="40%" alt="jarebruno github-readme-stats"/>
     </a>
-    <a href="https://wakatime.com/@jarebruno">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarebruno&theme=github&hide_border=true&hide_title=false&area=true&custom_title=Contributions" width="48%" alt="activity graph">
-    </a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarebruno&theme=github&hide_border=true&hide_title=false&area=true&custom_title=Contributions" width="48%" alt="activity graph">
   
   <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=jarebruno)](https://git.io/streak-stats) -->
 
