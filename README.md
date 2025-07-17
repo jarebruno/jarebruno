@@ -68,10 +68,10 @@
 
   <p align="center">
     <a href="https://github.com/jarebruno?tab=repositories">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jarebruno&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jarebruno&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/jarebruno">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarebruno&theme=github&hide_border=true&hide_title=false&area=true&custom_title=Contributions" width="48%" alt="Activity Graph" />
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=jarebruno&amp;theme=github&amp;hide_border=true&amp;hide_title=false&amp;area=true&amp;custom_title=Contributions">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarebruno&amp;theme=github&amp;hide_border=true&amp;hide_title=false&amp;area=true&amp;custom_title=Contributions" width="48%" alt="activity graph">
     </a>
   </p>
 
