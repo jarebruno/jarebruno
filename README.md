@@ -1,7 +1,7 @@
 <div align="center" width="50">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/jarebruno"   alt="Jarebruno"  width="60%"/><br>
   <p>
-    <strong>Full Stack Developer</strong>
+    <strong>Backend developer</strong>
   </p>
 
   <hr></hr>
@@ -62,6 +62,7 @@
   <div align="center">
   </div>
 
+<!-- 
   <hr></hr>
 
   <h1>Stats</h1>
@@ -70,12 +71,13 @@
     <a href="https://github.com/jarebruno?tab=repositories">
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jarebruno&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats" />
     </a>
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=jarebruno&amp;theme=github&amp;hide_border=true&amp;hide_title=false&amp;area=true&amp;custom_title=Contributions">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=jarebruno&amp;theme=github&amp;hide_border=true&amp;hide_title=false&amp;area=true&amp;custom_title=Contributions"> 
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarebruno&amp;theme=github&amp;hide_border=true&amp;hide_title=false&amp;area=true&amp;custom_title=Contributions&amp;cache_bust=1" width="48%" alt="activity graph">
-    </a>
+    </a
   </p>
 
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=jarebruno)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 </div>
